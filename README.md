@@ -32,9 +32,9 @@ Hệ thống cảnh báo cháy sớm ứng dụng IoT, có khả năng giám sá
 
 | Họ và tên | Vai trò | Công việc thực hiện |
 |-----------|----------|---------------------|
-| **Tiến** | Thuật toán và phần cứng | Nghiên cứu đặc tính cảm biến, xây dựng thuật toán lọc nhiễu (Moving Average), thiết kế mô hình tính điểm rủi ro (Risk Score), thiết kế và lắp ráp phần cứng. |
-| **Khang Hy** | Thiết bị biên và tích hợp hệ thống | Lập trình ESP32 bằng C++, xây dựng Finite State Machine (FSM), xử lý các tác vụ không chặn (Non-blocking), xử lý tín hiệu ngoại vi, đóng gói dữ liệu JSON và truyền nhận MQTT. |
-| **Nguyên** | Backend và Frontend | Xây dựng Backend bằng Golang, phát triển giao diện giám sát bằng ReactJS, xử lý điều khiển thiết bị từ xa thông qua MQTT. |
+| **Trần Minh Tiến** | Thuật toán và phần cứng | Nghiên cứu đặc tính cảm biến, xây dựng thuật toán lọc nhiễu (Moving Average), thiết kế mô hình tính điểm rủi ro (Risk Score), thiết kế và lắp ráp phần cứng. |
+| **Nguyễn Khang Hy** | Thiết bị biên và tích hợp hệ thống | Lập trình ESP32 bằng C++, xây dựng Finite State Machine (FSM), xử lý các tác vụ không chặn (Non-blocking), xử lý tín hiệu ngoại vi, đóng gói dữ liệu JSON và truyền nhận MQTT. |
+| **Vi Phương Nguyên** | Backend và Frontend | Xây dựng Backend bằng Golang, phát triển giao diện giám sát bằng ReactJS, xử lý điều khiển thiết bị từ xa thông qua MQTT. |
 
 ---
 
